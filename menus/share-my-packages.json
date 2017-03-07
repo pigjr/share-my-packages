@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Share My Packages",
+          "submenu": [
+            {
+              "label": "As plain text",
+              "command": "share-my-packages:plain"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
